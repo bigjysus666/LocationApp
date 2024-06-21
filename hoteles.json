@@ -1,0 +1,2462 @@
+[
+  {
+    "ciudad": "New York",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel New York Centro",
+        "direccion": "Dirección central en New York, USA",
+        "estrellas": 1,
+        "precioPorNoche": 546,
+        "imagen": "https://example.com/images/new-york-centro.jpg"
+      },
+      {
+        "nombre": "Hotel New York Plaza",
+        "direccion": "Dirección plaza en New York, USA",
+        "estrellas": 3,
+        "precioPorNoche": 306,
+        "imagen": "https://example.com/images/new-york-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "San Francisco",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel San Francisco Centro",
+        "direccion": "Dirección central en San Francisco, USA",
+        "estrellas": 3,
+        "precioPorNoche": 192,
+        "imagen": "https://example.com/images/san-francisco-centro.jpg"
+      },
+      {
+        "nombre": "Hotel San Francisco Plaza",
+        "direccion": "Dirección plaza en San Francisco, USA",
+        "estrellas": 4,
+        "precioPorNoche": 441,
+        "imagen": "https://example.com/images/san-francisco-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Los Angeles",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Los Angeles Centro",
+        "direccion": "Dirección central en Los Angeles, USA",
+        "estrellas": 2,
+        "precioPorNoche": 147,
+        "imagen": "https://example.com/images/los-angeles-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Los Angeles Plaza",
+        "direccion": "Dirección plaza en Los Angeles, USA",
+        "estrellas": 4,
+        "precioPorNoche": 100,
+        "imagen": "https://example.com/images/los-angeles-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Chicago",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Chicago Centro",
+        "direccion": "Dirección central en Chicago, USA",
+        "estrellas": 4,
+        "precioPorNoche": 95,
+        "imagen": "https://example.com/images/chicago-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Chicago Plaza",
+        "direccion": "Dirección plaza en Chicago, USA",
+        "estrellas": 5,
+        "precioPorNoche": 291,
+        "imagen": "https://example.com/images/chicago-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Miami",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Miami Centro",
+        "direccion": "Dirección central en Miami, USA",
+        "estrellas": 1,
+        "precioPorNoche": 185,
+        "imagen": "https://example.com/images/miami-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Miami Plaza",
+        "direccion": "Dirección plaza en Miami, USA",
+        "estrellas": 1,
+        "precioPorNoche": 421,
+        "imagen": "https://example.com/images/miami-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Las Vegas",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Las Vegas Centro",
+        "direccion": "Dirección central en Las Vegas, USA",
+        "estrellas": 4,
+        "precioPorNoche": 89,
+        "imagen": "https://example.com/images/las-vegas-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Las Vegas Plaza",
+        "direccion": "Dirección plaza en Las Vegas, USA",
+        "estrellas": 1,
+        "precioPorNoche": 540,
+        "imagen": "https://example.com/images/las-vegas-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Washington, D.C.",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Washington, D.C. Centro",
+        "direccion": "Dirección central en Washington, D.C., USA",
+        "estrellas": 5,
+        "precioPorNoche": 111,
+        "imagen": "https://example.com/images/washington,-d.c.-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Washington, D.C. Plaza",
+        "direccion": "Dirección plaza en Washington, D.C., USA",
+        "estrellas": 5,
+        "precioPorNoche": 93,
+        "imagen": "https://example.com/images/washington,-d.c.-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Orlando",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Orlando Centro",
+        "direccion": "Dirección central en Orlando, USA",
+        "estrellas": 1,
+        "precioPorNoche": 408,
+        "imagen": "https://example.com/images/orlando-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Orlando Plaza",
+        "direccion": "Dirección plaza en Orlando, USA",
+        "estrellas": 3,
+        "precioPorNoche": 150,
+        "imagen": "https://example.com/images/orlando-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Boston",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Boston Centro",
+        "direccion": "Dirección central en Boston, USA",
+        "estrellas": 2,
+        "precioPorNoche": 252,
+        "imagen": "https://example.com/images/boston-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Boston Plaza",
+        "direccion": "Dirección plaza en Boston, USA",
+        "estrellas": 2,
+        "precioPorNoche": 120,
+        "imagen": "https://example.com/images/boston-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "New Orleans",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel New Orleans Centro",
+        "direccion": "Dirección central en New Orleans, USA",
+        "estrellas": 2,
+        "precioPorNoche": 418,
+        "imagen": "https://example.com/images/new-orleans-centro.jpg"
+      },
+      {
+        "nombre": "Hotel New Orleans Plaza",
+        "direccion": "Dirección plaza en New Orleans, USA",
+        "estrellas": 2,
+        "precioPorNoche": 58,
+        "imagen": "https://example.com/images/new-orleans-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Seattle",
+    "pais": "USA",
+    "hoteles": [
+      {
+        "nombre": "Hotel Seattle Centro",
+        "direccion": "Dirección central en Seattle, USA",
+        "estrellas": 1,
+        "precioPorNoche": 296,
+        "imagen": "https://example.com/images/seattle-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Seattle Plaza",
+        "direccion": "Dirección plaza en Seattle, USA",
+        "estrellas": 1,
+        "precioPorNoche": 441,
+        "imagen": "https://example.com/images/seattle-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Berlin",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Berlin Centro",
+        "direccion": "Dirección central en Berlin, Germany",
+        "estrellas": 1,
+        "precioPorNoche": 497,
+        "imagen": "https://example.com/images/berlin-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Berlin Plaza",
+        "direccion": "Dirección plaza en Berlin, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 491,
+        "imagen": "https://example.com/images/berlin-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Munich",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Munich Centro",
+        "direccion": "Dirección central en Munich, Germany",
+        "estrellas": 1,
+        "precioPorNoche": 178,
+        "imagen": "https://example.com/images/munich-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Munich Plaza",
+        "direccion": "Dirección plaza en Munich, Germany",
+        "estrellas": 2,
+        "precioPorNoche": 532,
+        "imagen": "https://example.com/images/munich-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Hamburg",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Hamburg Centro",
+        "direccion": "Dirección central en Hamburg, Germany",
+        "estrellas": 1,
+        "precioPorNoche": 93,
+        "imagen": "https://example.com/images/hamburg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Hamburg Plaza",
+        "direccion": "Dirección plaza en Hamburg, Germany",
+        "estrellas": 3,
+        "precioPorNoche": 240,
+        "imagen": "https://example.com/images/hamburg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Frankfurt",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Frankfurt Centro",
+        "direccion": "Dirección central en Frankfurt, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 279,
+        "imagen": "https://example.com/images/frankfurt-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Frankfurt Plaza",
+        "direccion": "Dirección plaza en Frankfurt, Germany",
+        "estrellas": 3,
+        "precioPorNoche": 100,
+        "imagen": "https://example.com/images/frankfurt-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Cologne",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Cologne Centro",
+        "direccion": "Dirección central en Cologne, Germany",
+        "estrellas": 5,
+        "precioPorNoche": 109,
+        "imagen": "https://example.com/images/cologne-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Cologne Plaza",
+        "direccion": "Dirección plaza en Cologne, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 393,
+        "imagen": "https://example.com/images/cologne-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Stuttgart",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Stuttgart Centro",
+        "direccion": "Dirección central en Stuttgart, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 411,
+        "imagen": "https://example.com/images/stuttgart-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Stuttgart Plaza",
+        "direccion": "Dirección plaza en Stuttgart, Germany",
+        "estrellas": 2,
+        "precioPorNoche": 360,
+        "imagen": "https://example.com/images/stuttgart-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Dresden",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Dresden Centro",
+        "direccion": "Dirección central en Dresden, Germany",
+        "estrellas": 3,
+        "precioPorNoche": 87,
+        "imagen": "https://example.com/images/dresden-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Dresden Plaza",
+        "direccion": "Dirección plaza en Dresden, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 288,
+        "imagen": "https://example.com/images/dresden-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Leipzig",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Leipzig Centro",
+        "direccion": "Dirección central en Leipzig, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 104,
+        "imagen": "https://example.com/images/leipzig-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Leipzig Plaza",
+        "direccion": "Dirección plaza en Leipzig, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 184,
+        "imagen": "https://example.com/images/leipzig-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Düsseldorf",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Düsseldorf Centro",
+        "direccion": "Dirección central en Düsseldorf, Germany",
+        "estrellas": 1,
+        "precioPorNoche": 490,
+        "imagen": "https://example.com/images/düsseldorf-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Düsseldorf Plaza",
+        "direccion": "Dirección plaza en Düsseldorf, Germany",
+        "estrellas": 2,
+        "precioPorNoche": 108,
+        "imagen": "https://example.com/images/düsseldorf-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nuremberg",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nuremberg Centro",
+        "direccion": "Dirección central en Nuremberg, Germany",
+        "estrellas": 3,
+        "precioPorNoche": 135,
+        "imagen": "https://example.com/images/nuremberg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nuremberg Plaza",
+        "direccion": "Dirección plaza en Nuremberg, Germany",
+        "estrellas": 1,
+        "precioPorNoche": 185,
+        "imagen": "https://example.com/images/nuremberg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Heidelberg",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Heidelberg Centro",
+        "direccion": "Dirección central en Heidelberg, Germany",
+        "estrellas": 5,
+        "precioPorNoche": 194,
+        "imagen": "https://example.com/images/heidelberg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Heidelberg Plaza",
+        "direccion": "Dirección plaza en Heidelberg, Germany",
+        "estrellas": 5,
+        "precioPorNoche": 440,
+        "imagen": "https://example.com/images/heidelberg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Bremen",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Bremen Centro",
+        "direccion": "Dirección central en Bremen, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 441,
+        "imagen": "https://example.com/images/bremen-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Bremen Plaza",
+        "direccion": "Dirección plaza en Bremen, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 335,
+        "imagen": "https://example.com/images/bremen-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Hanover",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Hanover Centro",
+        "direccion": "Dirección central en Hanover, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 516,
+        "imagen": "https://example.com/images/hanover-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Hanover Plaza",
+        "direccion": "Dirección plaza en Hanover, Germany",
+        "estrellas": 2,
+        "precioPorNoche": 310,
+        "imagen": "https://example.com/images/hanover-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Freiburg",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Freiburg Centro",
+        "direccion": "Dirección central en Freiburg, Germany",
+        "estrellas": 3,
+        "precioPorNoche": 135,
+        "imagen": "https://example.com/images/freiburg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Freiburg Plaza",
+        "direccion": "Dirección plaza en Freiburg, Germany",
+        "estrellas": 5,
+        "precioPorNoche": 78,
+        "imagen": "https://example.com/images/freiburg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Potsdam",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Potsdam Centro",
+        "direccion": "Dirección central en Potsdam, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 316,
+        "imagen": "https://example.com/images/potsdam-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Potsdam Plaza",
+        "direccion": "Dirección plaza en Potsdam, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 435,
+        "imagen": "https://example.com/images/potsdam-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Augsburg",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Augsburg Centro",
+        "direccion": "Dirección central en Augsburg, Germany",
+        "estrellas": 2,
+        "precioPorNoche": 100,
+        "imagen": "https://example.com/images/augsburg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Augsburg Plaza",
+        "direccion": "Dirección plaza en Augsburg, Germany",
+        "estrellas": 3,
+        "precioPorNoche": 94,
+        "imagen": "https://example.com/images/augsburg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Rothenburg ob der Tauber",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Rothenburg ob der Tauber Centro",
+        "direccion": "Dirección central en Rothenburg ob der Tauber, Germany",
+        "estrellas": 5,
+        "precioPorNoche": 430,
+        "imagen": "https://example.com/images/rothenburg-ob-der-tauber-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Rothenburg ob der Tauber Plaza",
+        "direccion": "Dirección plaza en Rothenburg ob der Tauber, Germany",
+        "estrellas": 1,
+        "precioPorNoche": 248,
+        "imagen": "https://example.com/images/rothenburg-ob-der-tauber-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Würzburg",
+    "pais": "Germany",
+    "hoteles": [
+      {
+        "nombre": "Hotel Würzburg Centro",
+        "direccion": "Dirección central en Würzburg, Germany",
+        "estrellas": 2,
+        "precioPorNoche": 294,
+        "imagen": "https://example.com/images/würzburg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Würzburg Plaza",
+        "direccion": "Dirección plaza en Würzburg, Germany",
+        "estrellas": 4,
+        "precioPorNoche": 321,
+        "imagen": "https://example.com/images/würzburg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Paris",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Paris Centro",
+        "direccion": "Dirección central en Paris, France",
+        "estrellas": 4,
+        "precioPorNoche": 301,
+        "imagen": "https://example.com/images/paris-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Paris Plaza",
+        "direccion": "Dirección plaza en Paris, France",
+        "estrellas": 4,
+        "precioPorNoche": 152,
+        "imagen": "https://example.com/images/paris-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nice",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nice Centro",
+        "direccion": "Dirección central en Nice, France",
+        "estrellas": 1,
+        "precioPorNoche": 295,
+        "imagen": "https://example.com/images/nice-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nice Plaza",
+        "direccion": "Dirección plaza en Nice, France",
+        "estrellas": 3,
+        "precioPorNoche": 81,
+        "imagen": "https://example.com/images/nice-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Lyon",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Lyon Centro",
+        "direccion": "Dirección central en Lyon, France",
+        "estrellas": 2,
+        "precioPorNoche": 484,
+        "imagen": "https://example.com/images/lyon-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Lyon Plaza",
+        "direccion": "Dirección plaza en Lyon, France",
+        "estrellas": 2,
+        "precioPorNoche": 547,
+        "imagen": "https://example.com/images/lyon-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Marseille",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Marseille Centro",
+        "direccion": "Dirección central en Marseille, France",
+        "estrellas": 2,
+        "precioPorNoche": 170,
+        "imagen": "https://example.com/images/marseille-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Marseille Plaza",
+        "direccion": "Dirección plaza en Marseille, France",
+        "estrellas": 3,
+        "precioPorNoche": 90,
+        "imagen": "https://example.com/images/marseille-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Bordeaux",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Bordeaux Centro",
+        "direccion": "Dirección central en Bordeaux, France",
+        "estrellas": 3,
+        "precioPorNoche": 305,
+        "imagen": "https://example.com/images/bordeaux-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Bordeaux Plaza",
+        "direccion": "Dirección plaza en Bordeaux, France",
+        "estrellas": 3,
+        "precioPorNoche": 367,
+        "imagen": "https://example.com/images/bordeaux-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Toulouse",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Toulouse Centro",
+        "direccion": "Dirección central en Toulouse, France",
+        "estrellas": 2,
+        "precioPorNoche": 330,
+        "imagen": "https://example.com/images/toulouse-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Toulouse Plaza",
+        "direccion": "Dirección plaza en Toulouse, France",
+        "estrellas": 2,
+        "precioPorNoche": 117,
+        "imagen": "https://example.com/images/toulouse-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Lille",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Lille Centro",
+        "direccion": "Dirección central en Lille, France",
+        "estrellas": 1,
+        "precioPorNoche": 429,
+        "imagen": "https://example.com/images/lille-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Lille Plaza",
+        "direccion": "Dirección plaza en Lille, France",
+        "estrellas": 2,
+        "precioPorNoche": 96,
+        "imagen": "https://example.com/images/lille-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Strasbourg",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Strasbourg Centro",
+        "direccion": "Dirección central en Strasbourg, France",
+        "estrellas": 2,
+        "precioPorNoche": 319,
+        "imagen": "https://example.com/images/strasbourg-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Strasbourg Plaza",
+        "direccion": "Dirección plaza en Strasbourg, France",
+        "estrellas": 5,
+        "precioPorNoche": 512,
+        "imagen": "https://example.com/images/strasbourg-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Montpellier",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Montpellier Centro",
+        "direccion": "Dirección central en Montpellier, France",
+        "estrellas": 4,
+        "precioPorNoche": 536,
+        "imagen": "https://example.com/images/montpellier-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Montpellier Plaza",
+        "direccion": "Dirección plaza en Montpellier, France",
+        "estrellas": 2,
+        "precioPorNoche": 159,
+        "imagen": "https://example.com/images/montpellier-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nantes",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nantes Centro",
+        "direccion": "Dirección central en Nantes, France",
+        "estrellas": 5,
+        "precioPorNoche": 404,
+        "imagen": "https://example.com/images/nantes-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nantes Plaza",
+        "direccion": "Dirección plaza en Nantes, France",
+        "estrellas": 1,
+        "precioPorNoche": 139,
+        "imagen": "https://example.com/images/nantes-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Rennes",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Rennes Centro",
+        "direccion": "Dirección central en Rennes, France",
+        "estrellas": 5,
+        "precioPorNoche": 324,
+        "imagen": "https://example.com/images/rennes-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Rennes Plaza",
+        "direccion": "Dirección plaza en Rennes, France",
+        "estrellas": 5,
+        "precioPorNoche": 539,
+        "imagen": "https://example.com/images/rennes-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Cannes",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Cannes Centro",
+        "direccion": "Dirección central en Cannes, France",
+        "estrellas": 5,
+        "precioPorNoche": 309,
+        "imagen": "https://example.com/images/cannes-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Cannes Plaza",
+        "direccion": "Dirección plaza en Cannes, France",
+        "estrellas": 3,
+        "precioPorNoche": 489,
+        "imagen": "https://example.com/images/cannes-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Avignon",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Avignon Centro",
+        "direccion": "Dirección central en Avignon, France",
+        "estrellas": 1,
+        "precioPorNoche": 252,
+        "imagen": "https://example.com/images/avignon-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Avignon Plaza",
+        "direccion": "Dirección plaza en Avignon, France",
+        "estrellas": 4,
+        "precioPorNoche": 85,
+        "imagen": "https://example.com/images/avignon-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Rouen",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Rouen Centro",
+        "direccion": "Dirección central en Rouen, France",
+        "estrellas": 4,
+        "precioPorNoche": 454,
+        "imagen": "https://example.com/images/rouen-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Rouen Plaza",
+        "direccion": "Dirección plaza en Rouen, France",
+        "estrellas": 1,
+        "precioPorNoche": 448,
+        "imagen": "https://example.com/images/rouen-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Versailles",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Versailles Centro",
+        "direccion": "Dirección central en Versailles, France",
+        "estrellas": 1,
+        "precioPorNoche": 71,
+        "imagen": "https://example.com/images/versailles-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Versailles Plaza",
+        "direccion": "Dirección plaza en Versailles, France",
+        "estrellas": 1,
+        "precioPorNoche": 316,
+        "imagen": "https://example.com/images/versailles-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Aix-en-Provence",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Aix-en-Provence Centro",
+        "direccion": "Dirección central en Aix-en-Provence, France",
+        "estrellas": 1,
+        "precioPorNoche": 443,
+        "imagen": "https://example.com/images/aix-en-provence-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Aix-en-Provence Plaza",
+        "direccion": "Dirección plaza en Aix-en-Provence, France",
+        "estrellas": 5,
+        "precioPorNoche": 543,
+        "imagen": "https://example.com/images/aix-en-provence-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Antibes",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Antibes Centro",
+        "direccion": "Dirección central en Antibes, France",
+        "estrellas": 2,
+        "precioPorNoche": 115,
+        "imagen": "https://example.com/images/antibes-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Antibes Plaza",
+        "direccion": "Dirección plaza en Antibes, France",
+        "estrellas": 4,
+        "precioPorNoche": 416,
+        "imagen": "https://example.com/images/antibes-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Arles",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Arles Centro",
+        "direccion": "Dirección central en Arles, France",
+        "estrellas": 5,
+        "precioPorNoche": 448,
+        "imagen": "https://example.com/images/arles-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Arles Plaza",
+        "direccion": "Dirección plaza en Arles, France",
+        "estrellas": 3,
+        "precioPorNoche": 173,
+        "imagen": "https://example.com/images/arles-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Biarritz",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Biarritz Centro",
+        "direccion": "Dirección central en Biarritz, France",
+        "estrellas": 5,
+        "precioPorNoche": 256,
+        "imagen": "https://example.com/images/biarritz-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Biarritz Plaza",
+        "direccion": "Dirección plaza en Biarritz, France",
+        "estrellas": 2,
+        "precioPorNoche": 119,
+        "imagen": "https://example.com/images/biarritz-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Toulon",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Toulon Centro",
+        "direccion": "Dirección central en Toulon, France",
+        "estrellas": 1,
+        "precioPorNoche": 267,
+        "imagen": "https://example.com/images/toulon-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Toulon Plaza",
+        "direccion": "Dirección plaza en Toulon, France",
+        "estrellas": 5,
+        "precioPorNoche": 458,
+        "imagen": "https://example.com/images/toulon-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Grenoble",
+    "pais": "France",
+    "hoteles": [
+      {
+        "nombre": "Hotel Grenoble Centro",
+        "direccion": "Dirección central en Grenoble, France",
+        "estrellas": 3,
+        "precioPorNoche": 183,
+        "imagen": "https://example.com/images/grenoble-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Grenoble Plaza",
+        "direccion": "Dirección plaza en Grenoble, France",
+        "estrellas": 3,
+        "precioPorNoche": 259,
+        "imagen": "https://example.com/images/grenoble-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Tokyo",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Tokyo Centro",
+        "direccion": "Dirección central en Tokyo, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 162,
+        "imagen": "https://example.com/images/tokyo-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Tokyo Plaza",
+        "direccion": "Dirección plaza en Tokyo, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 73,
+        "imagen": "https://example.com/images/tokyo-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Kyoto",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Kyoto Centro",
+        "direccion": "Dirección central en Kyoto, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 202,
+        "imagen": "https://example.com/images/kyoto-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Kyoto Plaza",
+        "direccion": "Dirección plaza en Kyoto, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 78,
+        "imagen": "https://example.com/images/kyoto-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Osaka",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Osaka Centro",
+        "direccion": "Dirección central en Osaka, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 534,
+        "imagen": "https://example.com/images/osaka-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Osaka Plaza",
+        "direccion": "Dirección plaza en Osaka, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 267,
+        "imagen": "https://example.com/images/osaka-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Hiroshima",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Hiroshima Centro",
+        "direccion": "Dirección central en Hiroshima, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 181,
+        "imagen": "https://example.com/images/hiroshima-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Hiroshima Plaza",
+        "direccion": "Dirección plaza en Hiroshima, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 449,
+        "imagen": "https://example.com/images/hiroshima-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nagoya",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nagoya Centro",
+        "direccion": "Dirección central en Nagoya, Japan",
+        "estrellas": 3,
+        "precioPorNoche": 481,
+        "imagen": "https://example.com/images/nagoya-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nagoya Plaza",
+        "direccion": "Dirección plaza en Nagoya, Japan",
+        "estrellas": 2,
+        "precioPorNoche": 122,
+        "imagen": "https://example.com/images/nagoya-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nara",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nara Centro",
+        "direccion": "Dirección central en Nara, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 325,
+        "imagen": "https://example.com/images/nara-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nara Plaza",
+        "direccion": "Dirección plaza en Nara, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 532,
+        "imagen": "https://example.com/images/nara-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Sapporo",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Sapporo Centro",
+        "direccion": "Dirección central en Sapporo, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 365,
+        "imagen": "https://example.com/images/sapporo-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Sapporo Plaza",
+        "direccion": "Dirección plaza en Sapporo, Japan",
+        "estrellas": 2,
+        "precioPorNoche": 191,
+        "imagen": "https://example.com/images/sapporo-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Fukuoka",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Fukuoka Centro",
+        "direccion": "Dirección central en Fukuoka, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 151,
+        "imagen": "https://example.com/images/fukuoka-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Fukuoka Plaza",
+        "direccion": "Dirección plaza en Fukuoka, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 88,
+        "imagen": "https://example.com/images/fukuoka-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Kobe",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Kobe Centro",
+        "direccion": "Dirección central en Kobe, Japan",
+        "estrellas": 3,
+        "precioPorNoche": 206,
+        "imagen": "https://example.com/images/kobe-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Kobe Plaza",
+        "direccion": "Dirección plaza en Kobe, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 486,
+        "imagen": "https://example.com/images/kobe-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Yokohama",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Yokohama Centro",
+        "direccion": "Dirección central en Yokohama, Japan",
+        "estrellas": 3,
+        "precioPorNoche": 249,
+        "imagen": "https://example.com/images/yokohama-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Yokohama Plaza",
+        "direccion": "Dirección plaza en Yokohama, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 383,
+        "imagen": "https://example.com/images/yokohama-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Kanazawa",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Kanazawa Centro",
+        "direccion": "Dirección central en Kanazawa, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 139,
+        "imagen": "https://example.com/images/kanazawa-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Kanazawa Plaza",
+        "direccion": "Dirección plaza en Kanazawa, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 505,
+        "imagen": "https://example.com/images/kanazawa-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nagasaki",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nagasaki Centro",
+        "direccion": "Dirección central en Nagasaki, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 328,
+        "imagen": "https://example.com/images/nagasaki-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nagasaki Plaza",
+        "direccion": "Dirección plaza en Nagasaki, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 358,
+        "imagen": "https://example.com/images/nagasaki-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Hakone",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Hakone Centro",
+        "direccion": "Dirección central en Hakone, Japan",
+        "estrellas": 2,
+        "precioPorNoche": 259,
+        "imagen": "https://example.com/images/hakone-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Hakone Plaza",
+        "direccion": "Dirección plaza en Hakone, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 82,
+        "imagen": "https://example.com/images/hakone-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Kamakura",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Kamakura Centro",
+        "direccion": "Dirección central en Kamakura, Japan",
+        "estrellas": 2,
+        "precioPorNoche": 339,
+        "imagen": "https://example.com/images/kamakura-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Kamakura Plaza",
+        "direccion": "Dirección plaza en Kamakura, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 91,
+        "imagen": "https://example.com/images/kamakura-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Takayama",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Takayama Centro",
+        "direccion": "Dirección central en Takayama, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 226,
+        "imagen": "https://example.com/images/takayama-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Takayama Plaza",
+        "direccion": "Dirección plaza en Takayama, Japan",
+        "estrellas": 3,
+        "precioPorNoche": 520,
+        "imagen": "https://example.com/images/takayama-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Matsumoto",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Matsumoto Centro",
+        "direccion": "Dirección central en Matsumoto, Japan",
+        "estrellas": 2,
+        "precioPorNoche": 278,
+        "imagen": "https://example.com/images/matsumoto-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Matsumoto Plaza",
+        "direccion": "Dirección plaza en Matsumoto, Japan",
+        "estrellas": 1,
+        "precioPorNoche": 512,
+        "imagen": "https://example.com/images/matsumoto-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Nikko",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Nikko Centro",
+        "direccion": "Dirección central en Nikko, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 529,
+        "imagen": "https://example.com/images/nikko-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Nikko Plaza",
+        "direccion": "Dirección plaza en Nikko, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 481,
+        "imagen": "https://example.com/images/nikko-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Kagoshima",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Kagoshima Centro",
+        "direccion": "Dirección central en Kagoshima, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 193,
+        "imagen": "https://example.com/images/kagoshima-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Kagoshima Plaza",
+        "direccion": "Dirección plaza en Kagoshima, Japan",
+        "estrellas": 5,
+        "precioPorNoche": 109,
+        "imagen": "https://example.com/images/kagoshima-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Okinawa",
+    "pais": "Japan",
+    "hoteles": [
+      {
+        "nombre": "Hotel Okinawa Centro",
+        "direccion": "Dirección central en Okinawa, Japan",
+        "estrellas": 4,
+        "precioPorNoche": 326,
+        "imagen": "https://example.com/images/okinawa-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Okinawa Plaza",
+        "direccion": "Dirección plaza en Okinawa, Japan",
+        "estrellas": 3,
+        "precioPorNoche": 159,
+        "imagen": "https://example.com/images/okinawa-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Sydney",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Sydney Centro",
+        "direccion": "Dirección central en Sydney, Australia",
+        "estrellas": 3,
+        "precioPorNoche": 382,
+        "imagen": "https://example.com/images/sydney-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Sydney Plaza",
+        "direccion": "Dirección plaza en Sydney, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 508,
+        "imagen": "https://example.com/images/sydney-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Melbourne",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Melbourne Centro",
+        "direccion": "Dirección central en Melbourne, Australia",
+        "estrellas": 4,
+        "precioPorNoche": 180,
+        "imagen": "https://example.com/images/melbourne-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Melbourne Plaza",
+        "direccion": "Dirección plaza en Melbourne, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 536,
+        "imagen": "https://example.com/images/melbourne-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Brisbane",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Brisbane Centro",
+        "direccion": "Dirección central en Brisbane, Australia",
+        "estrellas": 3,
+        "precioPorNoche": 385,
+        "imagen": "https://example.com/images/brisbane-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Brisbane Plaza",
+        "direccion": "Dirección plaza en Brisbane, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 318,
+        "imagen": "https://example.com/images/brisbane-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Perth",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Perth Centro",
+        "direccion": "Dirección central en Perth, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 208,
+        "imagen": "https://example.com/images/perth-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Perth Plaza",
+        "direccion": "Dirección plaza en Perth, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 198,
+        "imagen": "https://example.com/images/perth-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Adelaide",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Adelaide Centro",
+        "direccion": "Dirección central en Adelaide, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 143,
+        "imagen": "https://example.com/images/adelaide-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Adelaide Plaza",
+        "direccion": "Dirección plaza en Adelaide, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 448,
+        "imagen": "https://example.com/images/adelaide-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Canberra",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Canberra Centro",
+        "direccion": "Dirección central en Canberra, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 405,
+        "imagen": "https://example.com/images/canberra-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Canberra Plaza",
+        "direccion": "Dirección plaza en Canberra, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 158,
+        "imagen": "https://example.com/images/canberra-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Gold Coast",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Gold Coast Centro",
+        "direccion": "Dirección central en Gold Coast, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 435,
+        "imagen": "https://example.com/images/gold-coast-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Gold Coast Plaza",
+        "direccion": "Dirección plaza en Gold Coast, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 476,
+        "imagen": "https://example.com/images/gold-coast-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Hobart",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Hobart Centro",
+        "direccion": "Dirección central en Hobart, Australia",
+        "estrellas": 4,
+        "precioPorNoche": 476,
+        "imagen": "https://example.com/images/hobart-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Hobart Plaza",
+        "direccion": "Dirección plaza en Hobart, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 378,
+        "imagen": "https://example.com/images/hobart-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Darwin",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Darwin Centro",
+        "direccion": "Dirección central en Darwin, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 65,
+        "imagen": "https://example.com/images/darwin-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Darwin Plaza",
+        "direccion": "Dirección plaza en Darwin, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 341,
+        "imagen": "https://example.com/images/darwin-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Cairns",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Cairns Centro",
+        "direccion": "Dirección central en Cairns, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 387,
+        "imagen": "https://example.com/images/cairns-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Cairns Plaza",
+        "direccion": "Dirección plaza en Cairns, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 209,
+        "imagen": "https://example.com/images/cairns-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Alice Springs",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Alice Springs Centro",
+        "direccion": "Dirección central en Alice Springs, Australia",
+        "estrellas": 3,
+        "precioPorNoche": 331,
+        "imagen": "https://example.com/images/alice-springs-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Alice Springs Plaza",
+        "direccion": "Dirección plaza en Alice Springs, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 58,
+        "imagen": "https://example.com/images/alice-springs-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Newcastle",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Newcastle Centro",
+        "direccion": "Dirección central en Newcastle, Australia",
+        "estrellas": 3,
+        "precioPorNoche": 532,
+        "imagen": "https://example.com/images/newcastle-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Newcastle Plaza",
+        "direccion": "Dirección plaza en Newcastle, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 154,
+        "imagen": "https://example.com/images/newcastle-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Geelong",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Geelong Centro",
+        "direccion": "Dirección central en Geelong, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 234,
+        "imagen": "https://example.com/images/geelong-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Geelong Plaza",
+        "direccion": "Dirección plaza en Geelong, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 202,
+        "imagen": "https://example.com/images/geelong-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Townsville",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Townsville Centro",
+        "direccion": "Dirección central en Townsville, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 279,
+        "imagen": "https://example.com/images/townsville-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Townsville Plaza",
+        "direccion": "Dirección plaza en Townsville, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 188,
+        "imagen": "https://example.com/images/townsville-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Wollongong",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Wollongong Centro",
+        "direccion": "Dirección central en Wollongong, Australia",
+        "estrellas": 3,
+        "precioPorNoche": 161,
+        "imagen": "https://example.com/images/wollongong-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Wollongong Plaza",
+        "direccion": "Dirección plaza en Wollongong, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 259,
+        "imagen": "https://example.com/images/wollongong-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Byron Bay",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Byron Bay Centro",
+        "direccion": "Dirección central en Byron Bay, Australia",
+        "estrellas": 5,
+        "precioPorNoche": 547,
+        "imagen": "https://example.com/images/byron-bay-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Byron Bay Plaza",
+        "direccion": "Dirección plaza en Byron Bay, Australia",
+        "estrellas": 1,
+        "precioPorNoche": 60,
+        "imagen": "https://example.com/images/byron-bay-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Broome",
+    "pais": "Australia",
+    "hoteles": [
+      {
+        "nombre": "Hotel Broome Centro",
+        "direccion": "Dirección central en Broome, Australia",
+        "estrellas": 2,
+        "precioPorNoche": 141,
+        "imagen": "https://example.com/images/broome-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Broome Plaza",
+        "direccion": "Dirección plaza en Broome, Australia",
+        "estrellas": 4,
+        "precioPorNoche": 91,
+        "imagen": "https://example.com/images/broome-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "London",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel London Centro",
+        "direccion": "Dirección central en London, UK",
+        "estrellas": 4,
+        "precioPorNoche": 279,
+        "imagen": "https://example.com/images/london-centro.jpg"
+      },
+      {
+        "nombre": "Hotel London Plaza",
+        "direccion": "Dirección plaza en London, UK",
+        "estrellas": 3,
+        "precioPorNoche": 261,
+        "imagen": "https://example.com/images/london-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Edinburgh",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Edinburgh Centro",
+        "direccion": "Dirección central en Edinburgh, UK",
+        "estrellas": 3,
+        "precioPorNoche": 531,
+        "imagen": "https://example.com/images/edinburgh-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Edinburgh Plaza",
+        "direccion": "Dirección plaza en Edinburgh, UK",
+        "estrellas": 4,
+        "precioPorNoche": 541,
+        "imagen": "https://example.com/images/edinburgh-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Manchester",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Manchester Centro",
+        "direccion": "Dirección central en Manchester, UK",
+        "estrellas": 2,
+        "precioPorNoche": 486,
+        "imagen": "https://example.com/images/manchester-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Manchester Plaza",
+        "direccion": "Dirección plaza en Manchester, UK",
+        "estrellas": 5,
+        "precioPorNoche": 328,
+        "imagen": "https://example.com/images/manchester-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Birmingham",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Birmingham Centro",
+        "direccion": "Dirección central en Birmingham, UK",
+        "estrellas": 5,
+        "precioPorNoche": 68,
+        "imagen": "https://example.com/images/birmingham-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Birmingham Plaza",
+        "direccion": "Dirección plaza en Birmingham, UK",
+        "estrellas": 4,
+        "precioPorNoche": 384,
+        "imagen": "https://example.com/images/birmingham-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Liverpool",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Liverpool Centro",
+        "direccion": "Dirección central en Liverpool, UK",
+        "estrellas": 4,
+        "precioPorNoche": 251,
+        "imagen": "https://example.com/images/liverpool-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Liverpool Plaza",
+        "direccion": "Dirección plaza en Liverpool, UK",
+        "estrellas": 2,
+        "precioPorNoche": 191,
+        "imagen": "https://example.com/images/liverpool-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Glasgow",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Glasgow Centro",
+        "direccion": "Dirección central en Glasgow, UK",
+        "estrellas": 1,
+        "precioPorNoche": 201,
+        "imagen": "https://example.com/images/glasgow-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Glasgow Plaza",
+        "direccion": "Dirección plaza en Glasgow, UK",
+        "estrellas": 1,
+        "precioPorNoche": 149,
+        "imagen": "https://example.com/images/glasgow-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Bristol",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Bristol Centro",
+        "direccion": "Dirección central en Bristol, UK",
+        "estrellas": 4,
+        "precioPorNoche": 466,
+        "imagen": "https://example.com/images/bristol-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Bristol Plaza",
+        "direccion": "Dirección plaza en Bristol, UK",
+        "estrellas": 4,
+        "precioPorNoche": 538,
+        "imagen": "https://example.com/images/bristol-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Oxford",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Oxford Centro",
+        "direccion": "Dirección central en Oxford, UK",
+        "estrellas": 2,
+        "precioPorNoche": 97,
+        "imagen": "https://example.com/images/oxford-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Oxford Plaza",
+        "direccion": "Dirección plaza en Oxford, UK",
+        "estrellas": 1,
+        "precioPorNoche": 138,
+        "imagen": "https://example.com/images/oxford-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Cambridge",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Cambridge Centro",
+        "direccion": "Dirección central en Cambridge, UK",
+        "estrellas": 3,
+        "precioPorNoche": 101,
+        "imagen": "https://example.com/images/cambridge-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Cambridge Plaza",
+        "direccion": "Dirección plaza en Cambridge, UK",
+        "estrellas": 3,
+        "precioPorNoche": 87,
+        "imagen": "https://example.com/images/cambridge-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Bath",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Bath Centro",
+        "direccion": "Dirección central en Bath, UK",
+        "estrellas": 4,
+        "precioPorNoche": 548,
+        "imagen": "https://example.com/images/bath-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Bath Plaza",
+        "direccion": "Dirección plaza en Bath, UK",
+        "estrellas": 4,
+        "precioPorNoche": 141,
+        "imagen": "https://example.com/images/bath-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "York",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel York Centro",
+        "direccion": "Dirección central en York, UK",
+        "estrellas": 5,
+        "precioPorNoche": 191,
+        "imagen": "https://example.com/images/york-centro.jpg"
+      },
+      {
+        "nombre": "Hotel York Plaza",
+        "direccion": "Dirección plaza en York, UK",
+        "estrellas": 2,
+        "precioPorNoche": 313,
+        "imagen": "https://example.com/images/york-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Cardiff",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Cardiff Centro",
+        "direccion": "Dirección central en Cardiff, UK",
+        "estrellas": 1,
+        "precioPorNoche": 186,
+        "imagen": "https://example.com/images/cardiff-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Cardiff Plaza",
+        "direccion": "Dirección plaza en Cardiff, UK",
+        "estrellas": 1,
+        "precioPorNoche": 413,
+        "imagen": "https://example.com/images/cardiff-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Belfast",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Belfast Centro",
+        "direccion": "Dirección central en Belfast, UK",
+        "estrellas": 3,
+        "precioPorNoche": 143,
+        "imagen": "https://example.com/images/belfast-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Belfast Plaza",
+        "direccion": "Dirección plaza en Belfast, UK",
+        "estrellas": 3,
+        "precioPorNoche": 385,
+        "imagen": "https://example.com/images/belfast-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Brighton",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Brighton Centro",
+        "direccion": "Dirección central en Brighton, UK",
+        "estrellas": 3,
+        "precioPorNoche": 488,
+        "imagen": "https://example.com/images/brighton-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Brighton Plaza",
+        "direccion": "Dirección plaza en Brighton, UK",
+        "estrellas": 3,
+        "precioPorNoche": 167,
+        "imagen": "https://example.com/images/brighton-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Newcastle upon Tyne",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Newcastle upon Tyne Centro",
+        "direccion": "Dirección central en Newcastle upon Tyne, UK",
+        "estrellas": 2,
+        "precioPorNoche": 469,
+        "imagen": "https://example.com/images/newcastle-upon-tyne-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Newcastle upon Tyne Plaza",
+        "direccion": "Dirección plaza en Newcastle upon Tyne, UK",
+        "estrellas": 3,
+        "precioPorNoche": 137,
+        "imagen": "https://example.com/images/newcastle-upon-tyne-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Aberdeen",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Aberdeen Centro",
+        "direccion": "Dirección central en Aberdeen, UK",
+        "estrellas": 2,
+        "precioPorNoche": 164,
+        "imagen": "https://example.com/images/aberdeen-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Aberdeen Plaza",
+        "direccion": "Dirección plaza en Aberdeen, UK",
+        "estrellas": 2,
+        "precioPorNoche": 149,
+        "imagen": "https://example.com/images/aberdeen-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Inverness",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Inverness Centro",
+        "direccion": "Dirección central en Inverness, UK",
+        "estrellas": 3,
+        "precioPorNoche": 65,
+        "imagen": "https://example.com/images/inverness-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Inverness Plaza",
+        "direccion": "Dirección plaza en Inverness, UK",
+        "estrellas": 3,
+        "precioPorNoche": 529,
+        "imagen": "https://example.com/images/inverness-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Stirling",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Stirling Centro",
+        "direccion": "Dirección central en Stirling, UK",
+        "estrellas": 2,
+        "precioPorNoche": 339,
+        "imagen": "https://example.com/images/stirling-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Stirling Plaza",
+        "direccion": "Dirección plaza en Stirling, UK",
+        "estrellas": 5,
+        "precioPorNoche": 95,
+        "imagen": "https://example.com/images/stirling-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Exeter",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Exeter Centro",
+        "direccion": "Dirección central en Exeter, UK",
+        "estrellas": 1,
+        "precioPorNoche": 69,
+        "imagen": "https://example.com/images/exeter-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Exeter Plaza",
+        "direccion": "Dirección plaza en Exeter, UK",
+        "estrellas": 5,
+        "precioPorNoche": 336,
+        "imagen": "https://example.com/images/exeter-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Norwich",
+    "pais": "UK",
+    "hoteles": [
+      {
+        "nombre": "Hotel Norwich Centro",
+        "direccion": "Dirección central en Norwich, UK",
+        "estrellas": 5,
+        "precioPorNoche": 197,
+        "imagen": "https://example.com/images/norwich-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Norwich Plaza",
+        "direccion": "Dirección plaza en Norwich, UK",
+        "estrellas": 5,
+        "precioPorNoche": 429,
+        "imagen": "https://example.com/images/norwich-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Rome",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Rome Centro",
+        "direccion": "Dirección central en Rome, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 284,
+        "imagen": "https://example.com/images/rome-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Rome Plaza",
+        "direccion": "Dirección plaza en Rome, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 178,
+        "imagen": "https://example.com/images/rome-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Florence",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Florence Centro",
+        "direccion": "Dirección central en Florence, Italy",
+        "estrellas": 5,
+        "precioPorNoche": 510,
+        "imagen": "https://example.com/images/florence-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Florence Plaza",
+        "direccion": "Dirección plaza en Florence, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 160,
+        "imagen": "https://example.com/images/florence-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Venice",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Venice Centro",
+        "direccion": "Dirección central en Venice, Italy",
+        "estrellas": 5,
+        "precioPorNoche": 408,
+        "imagen": "https://example.com/images/venice-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Venice Plaza",
+        "direccion": "Dirección plaza en Venice, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 167,
+        "imagen": "https://example.com/images/venice-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Milan",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Milan Centro",
+        "direccion": "Dirección central en Milan, Italy",
+        "estrellas": 5,
+        "precioPorNoche": 66,
+        "imagen": "https://example.com/images/milan-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Milan Plaza",
+        "direccion": "Dirección plaza en Milan, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 309,
+        "imagen": "https://example.com/images/milan-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Naples",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Naples Centro",
+        "direccion": "Dirección central en Naples, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 98,
+        "imagen": "https://example.com/images/naples-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Naples Plaza",
+        "direccion": "Dirección plaza en Naples, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 457,
+        "imagen": "https://example.com/images/naples-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Turin",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Turin Centro",
+        "direccion": "Dirección central en Turin, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 359,
+        "imagen": "https://example.com/images/turin-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Turin Plaza",
+        "direccion": "Dirección plaza en Turin, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 503,
+        "imagen": "https://example.com/images/turin-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Genoa",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Genoa Centro",
+        "direccion": "Dirección central en Genoa, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 97,
+        "imagen": "https://example.com/images/genoa-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Genoa Plaza",
+        "direccion": "Dirección plaza en Genoa, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 472,
+        "imagen": "https://example.com/images/genoa-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Verona",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Verona Centro",
+        "direccion": "Dirección central en Verona, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 151,
+        "imagen": "https://example.com/images/verona-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Verona Plaza",
+        "direccion": "Dirección plaza en Verona, Italy",
+        "estrellas": 2,
+        "precioPorNoche": 141,
+        "imagen": "https://example.com/images/verona-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Bologna",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Bologna Centro",
+        "direccion": "Dirección central en Bologna, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 248,
+        "imagen": "https://example.com/images/bologna-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Bologna Plaza",
+        "direccion": "Dirección plaza en Bologna, Italy",
+        "estrellas": 5,
+        "precioPorNoche": 330,
+        "imagen": "https://example.com/images/bologna-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Palermo",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Palermo Centro",
+        "direccion": "Dirección central en Palermo, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 179,
+        "imagen": "https://example.com/images/palermo-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Palermo Plaza",
+        "direccion": "Dirección plaza en Palermo, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 289,
+        "imagen": "https://example.com/images/palermo-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Siena",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Siena Centro",
+        "direccion": "Dirección central en Siena, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 545,
+        "imagen": "https://example.com/images/siena-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Siena Plaza",
+        "direccion": "Dirección plaza en Siena, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 240,
+        "imagen": "https://example.com/images/siena-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Pisa",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Pisa Centro",
+        "direccion": "Dirección central en Pisa, Italy",
+        "estrellas": 5,
+        "precioPorNoche": 275,
+        "imagen": "https://example.com/images/pisa-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Pisa Plaza",
+        "direccion": "Dirección plaza en Pisa, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 133,
+        "imagen": "https://example.com/images/pisa-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Ravenna",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Ravenna Centro",
+        "direccion": "Dirección central en Ravenna, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 348,
+        "imagen": "https://example.com/images/ravenna-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Ravenna Plaza",
+        "direccion": "Dirección plaza en Ravenna, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 326,
+        "imagen": "https://example.com/images/ravenna-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Matera",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Matera Centro",
+        "direccion": "Dirección central en Matera, Italy",
+        "estrellas": 1,
+        "precioPorNoche": 278,
+        "imagen": "https://example.com/images/matera-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Matera Plaza",
+        "direccion": "Dirección plaza en Matera, Italy",
+        "estrellas": 5,
+        "precioPorNoche": 458,
+        "imagen": "https://example.com/images/matera-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Amalfi",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Amalfi Centro",
+        "direccion": "Dirección central en Amalfi, Italy",
+        "estrellas": 2,
+        "precioPorNoche": 475,
+        "imagen": "https://example.com/images/amalfi-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Amalfi Plaza",
+        "direccion": "Dirección plaza en Amalfi, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 348,
+        "imagen": "https://example.com/images/amalfi-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Bergamo",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Bergamo Centro",
+        "direccion": "Dirección central en Bergamo, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 198,
+        "imagen": "https://example.com/images/bergamo-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Bergamo Plaza",
+        "direccion": "Dirección plaza en Bergamo, Italy",
+        "estrellas": 4,
+        "precioPorNoche": 238,
+        "imagen": "https://example.com/images/bergamo-plaza.jpg"
+      }
+    ]
+  },
+  {
+    "ciudad": "Catania",
+    "pais": "Italy",
+    "hoteles": [
+      {
+        "nombre": "Hotel Catania Centro",
+        "direccion": "Dirección central en Catania, Italy",
+        "estrellas": 3,
+        "precioPorNoche": 460,
+        "imagen": "https://example.com/images/catania-centro.jpg"
+      },
+      {
+        "nombre": "Hotel Catania Plaza",
+        "direccion": "Dirección plaza en Catania, Italy",
+        "estrellas": 2,
+        "precioPorNoche": 279,
+        "imagen": "https://example.com/images/catania-plaza.jpg"
+      }
+    ]
+  }
+]
